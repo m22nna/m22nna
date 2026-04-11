@@ -82,7 +82,6 @@ Here are some ideas to get you started:
 Hello, my name is Mennatullah Ahmed  and I am a student at [o6u university] majoring in Computer Science. I am a Front-end software developer with experience of building responsive websites
 My technology stack involves React JS, Next js, Redux, Tailwind, javascript, JQuery, TypeScipt, PHP, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in UI/UX.
 
-- 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/)
 - 💬 Brainstorm with me over tech, algorithms and designs 
 - 📫 How to reach me: mennatullahahmed2004@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/15ZV0ijbVlSQoPS8CluzDqvKqGznT7Nuq/view?usp=sharing)
