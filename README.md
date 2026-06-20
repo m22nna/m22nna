@@ -84,7 +84,7 @@ My technology stack involves React JS, Next js, Redux, Tailwind, javascript, JQu
 
 - 💬 Brainstorm with me over tech, algorithms and designs 
 - 📫 How to reach me: mennatullahahmed2004@gmail.com
-- 📝 [Resume]([https://drive.google.com/file/d/1FiDB1U8jdcm8egOA48ZplOuPAbhFQO9n/view?usp=sharing])
+- 📝 [Resume](https://drive.google.com/file/d/1FiDB1U8jdcm8egOA48ZplOuPAbhFQO9n/view?usp=sharing)
 
 **Languages and Tools:** 
 
