@@ -87,7 +87,7 @@
 
 ##  GitHub Statistics
 
-<div align="center">
+<div align="left">
 
  
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m22nna&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
