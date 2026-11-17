@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mennatullah Ahmed</h1>
 
 <h3 align="center">
-  Junior React Front-End Developer | Computer Science Graduate 🇪🇬
+  React Front-End Developer | Computer Science Graduate 🇪🇬
 </h3>
 
 <p align="center">
@@ -105,7 +105,7 @@
 
 Check out my portfolio to explore my projects and recent work:
 
-<p align="center">
+<p align="left">
   <a href="https://mennatullah-ahmed.vercel.app/">
     <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
