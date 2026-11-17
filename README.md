@@ -89,8 +89,7 @@
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=m22nna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-
+ 
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m22nna&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
   <br/><br/>
