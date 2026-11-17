@@ -17,25 +17,25 @@
   <a href="https://mennatullah-ahmed.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/mennatullah-ahmed-6b798b353/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-- 🎓 Computer Science graduate from **October 6 University**.
-- 💻 Focused on building modern web applications using **React.js**.
-- 🎨 Interested in UI/UX Design and creating intuitive user experiences.
-- 🌱 Currently improving my skills in Advanced React, Next.js, and modern Front-End technologies.
-- 🤝 Open to collaboration, learning opportunities, and Junior Front-End roles.
-- ⚡ I enjoy turning ideas and designs into functional web experiences.
+-  Computer Science graduate from **October 6 University**.
+-  Focused on building modern web applications using **React.js**.
+-  Interested in UI/UX Design and creating intuitive user experiences.
+-  Currently improving my skills in Advanced React, Next.js, and modern Front-End technologies.
+-  Open to collaboration, learning opportunities, and Junior Front-End roles.
+-  I enjoy turning ideas and designs into functional web experiences.
 
 ---
 
-## 🛠️ Languages & Technologies
+##  Languages & Technologies
 
 ### Front-End Development
 
@@ -85,7 +85,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -101,7 +101,7 @@
 
 ---
 
-## 🚀 Featured Work
+##  Featured Work
 
 Check out my portfolio to explore my projects and recent work:
 
@@ -113,13 +113,13 @@ Check out my portfolio to explore my projects and recent work:
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/mennatullah-ahmed-6b798b353/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mennatullahahmed2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
