@@ -115,14 +115,17 @@ Check out my portfolio to explore my projects and recent work:
 
 ##  Let's Connect
 
+
 <p align="left">
   <a href="https://www.linkedin.com/in/mennatullah-ahmed-6b798b353/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mennatullahahmed2004@gmail.com">
+
+  <a href="mailto:mennatullahahmed2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
 
 <p align="center">
   <b>💜 Thanks for visiting my profile!</b>
